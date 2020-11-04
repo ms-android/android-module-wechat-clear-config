@@ -1,1 +1,5 @@
-# android-module-wechat-clear-config
+# 微信清理后台配置模块
+
+- 后台获取前台扫描路径
+
+

@@ -11,7 +11,6 @@ public class WeChatClearConfigImpl extends IWeChatClearConfigAdapter {
         super();
     }
 
-
     private List<String> image = new ArrayList<>();
 
     @Override
